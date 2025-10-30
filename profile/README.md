@@ -2,7 +2,7 @@
 ---
 
 ## Team:
-* [William](https://github.com/WIIlyt)
+* [William](https://github.com/wiIIyt)
 * [Quentin](https://github.com/Implycitt)
 * [Nihal](https://github.com/Blaze34536)
 * [Vijay](https://github.com/V1JAYP)
